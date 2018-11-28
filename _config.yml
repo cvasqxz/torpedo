@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
+name: Torpedo Chauchistico
 description: Crypto-Glosario desarrollado por el Proyecto Chaucha
-avatar: https://www.chaucha.cl/images/logo.svg
+avatar: https://raw.githubusercontent.com/proyecto-chaucha/chauchera/master/src/qt/res/icons/bitcoin.png
 exclude:
   - README.md
   - CNAME

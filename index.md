@@ -1,5 +1,3 @@
-# Torpedo Chauchistico
-
 ## Address
 Dirección receptora de [criptomonedas](#Criptomoneda)
 ## Algoritmo
