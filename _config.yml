@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
-description: Crypto-Glosario desarrollado por el Proyecto Chaucha, basado en la información de Bitcoin.org, Bitcoin Wiki y el trabajo de la comunidad.
+description: Crypto-Glosario desarrollado por el Proyecto Chaucha
+avatar: https://www.chaucha.cl/images/logo.svg
+exclude:
+  - README.md
+  - CNAME
