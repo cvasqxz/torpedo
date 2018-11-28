@@ -7,7 +7,7 @@ Serie de pasos para realizar una acción
 
 ## Balance
 Cantidad de [criptomonedas](#Criptomoneda) almacenadas en una [address](#Address)
-## Base58
+## Base58check
 [Algoritmo](#Algoritmo) para representar [bytes](#Byte) en texto plano
 ## BIP
 _Bitcoin Improvement Proposal_, propuesta de mejora para [Bitcoin](#Bitcoin)
